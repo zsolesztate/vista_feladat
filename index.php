@@ -12,6 +12,8 @@ include 'includes/class-autoload.inc.php';
 
 <?php
 include_once '../php_oop/views/contacts.view.php';
+include_once '../php_oop/views/partners.view.php';
+include_once '../php_oop/views/partner_contacts.view.php';
 ?>
 
     </body>
